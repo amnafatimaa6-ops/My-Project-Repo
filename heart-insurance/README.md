@@ -1,5 +1,6 @@
 # Heart-Disease_prediction
 ❤️ Heart Disease Prediction Project
+
 📌 Overview
 
 This project focuses on predicting the likelihood of heart disease using machine learning techniques. The dataset contains medical attributes of patients, and the goal is to classify whether a person has heart disease (1) or not (0).
