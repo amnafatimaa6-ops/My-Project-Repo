@@ -1,4 +1,4 @@
-# Internship Projects Portfolio(DevelopersHub) - Amna Fatimaa
+# Internship Projects Portfolio(DevelopersHub) - Amna Fatima
 
 Welcome to my internship projects repository! This repo contains a collection of machine learning, data analysis, and AI projects I completed during my internship tasks. 
 Each project demonstrates practical skills, from data exploration to building predictive models and deploying interactive applications.
