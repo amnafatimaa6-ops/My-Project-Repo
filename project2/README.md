@@ -48,3 +48,8 @@ Best model (Random Forest) is selected for prediction
  ┣ 📜 model.py         # Model training & pipeline
  ┣ 📜 telco.csv        # Dataset
  ┣ 📜 README.md        # Project documentation
+
+
+
+# App link
+https://churn-prediction-app-nx6nn5kdfhpz8sxcypq5yc.streamlit.app/
