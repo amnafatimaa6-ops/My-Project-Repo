@@ -1,73 +1,80 @@
-# Internship Projects Portfolio(DevelopersHub) - Amna Fatima
+# Internship Projects Portfolio(DevelopersHub) 
 
-Welcome to my internship projects repository! This repo contains a collection of machine learning, data analysis, and AI projects I completed during my internship tasks. 
-Each project demonstrates practical skills, from data exploration to building predictive models and deploying interactive applications.
+🚀 AI Projects Portfolio — Amna Fatima
 
-🚀 Internship Projects Portfolio — Amna Fatima
+A curated portfolio of advanced AI systems focused on recommender systems, NLP, and applied machine learning research.
 
-Welcome to my AI & Machine Learning internship portfolio. This repository showcases a collection of end-to-end projects spanning NLP, recommender systems, time-series forecasting, and applied machine learning.
-
-Each project is designed with a focus on real-world applicability, research-driven insights, and interactive deployment.
+These projects emphasize real-world deployment, hybrid modeling, and intelligent system design.
 
 🧠 Core Projects
+
 🎬 Movie Recommendation System
 
-Multi-Model Recommender | NLP + Semantic AI + Hybrid Ranking
+Hybrid Recommender | NLP + Semantic AI
 
-A Streamlit-based intelligent movie recommendation engine using:
+An intelligent movie recommendation engine combining:
 
-TF-IDF similarity (surface-level matching)
+TF-IDF similarity (keyword-based)
 Sentence Transformers (semantic understanding)
-Hybrid scoring system (balanced recommendations)
-Genre-based filtering
+Hybrid ranking system
 
 🔹 Features:
 
-Cosine similarity ranking
 Context-aware recommendations
-Movie metadata insights (ratings, popularity, overview)
-🎥 YouTube trailer integration (real-time)
+Genre-based filtering
+Ratings, popularity & overview insights
+🎥 YouTube trailer integration
+
+🔗 Live Demo: https://moviereco
 
 🔹 Tech Stack:
-Python | Streamlit | Scikit-learn | Sentence Transformers | Pandas
+Python | Streamlit | Scikit-learn | Sentence Transformers
 
-🧠 AG News Classification Dashboard
+📉 Customer Churn Prediction System
 
-Transformer NLP | Research + Deployment
+Predictive Analytics | Classification + Model Optimization
 
-A research-oriented NLP dashboard using a fine-tuned BERT model to classify news into:
-
-🌍 World
-⚽ Sports
-💼 Business
-🤖 Sci/Tech
+A machine learning system that predicts whether a customer is likely to churn using structured business data.
 
 🔹 Features:
 
-Real-time predictions
-Confidence scoring
-Probability visualization
-Evaluation metrics (accuracy, confusion matrix)
+Interactive Streamlit dashboard
+End-to-end ML pipeline (preprocessing → prediction)
+Hyperparameter tuning with GridSearchCV
+Probability-based churn prediction
+📊 Visual comparison (Churn vs Retain)
+🧾 Customer input summary
+
+🔹 Models:
+
+Logistic Regression
+Random Forest (best performing)
+
+🔗 Live App:
+https://churn-prediction-app-nx6nn5kdfhpz8sxcypq5yc.streamlit.app
 
 🔹 Tech Stack:
-PyTorch | Hugging Face Transformers | Streamlit | Matplotlib
+Python | Scikit-learn | Pandas | Streamlit
 
-🎧 Music Recommendation System
+🎧 AI Music Recommendation System
 
-Hybrid AI Engine | NLP + Audio Intelligence
+Hybrid Discovery Engine | NLP + Audio Intelligence
 
-A Spotify-inspired music discovery system combining:
+A Spotify-inspired intelligent music recommender combining:
 
-Sentence-BERT (semantic understanding)
+Sentence-BERT (semantic search)
 Audio feature engineering (mood, intensity, danceability)
-Hybrid scoring (text + audio fusion)
+Hybrid scoring system
 
 🔹 Features:
 
 Artist & genre-based recommendations
-Mood-based discovery engine
+Mood-based discovery (“vibe search”)
 🎧 30-sec previews + album covers (Deezer API)
-Smart cold-start fallback system
+Smart cold-start handling
+
+🔗 Live Demo:
+https://ai-music-recommendation-system-lpfrsdplgtwhr5yb3ns4mx.streamlit.app/
 
 🔹 Tech Stack:
 Python | Streamlit | SBERT | Scikit-learn | Deezer API
@@ -76,21 +83,74 @@ Python | Streamlit | SBERT | Scikit-learn | Deezer API
 
 ML vs DL Research | Time-Series Forecasting
 
-A climate analytics platform comparing:
+A research-driven system comparing:
 
-Linear Regression (ML baseline)
-LSTM (Deep Learning model)
+Linear Regression (baseline ML)
+LSTM (deep learning)
 
 🔹 Key Insight:
 
-Simpler models outperform deep learning in low-data environments.
+Simpler models outperform deep learning under limited data conditions.
 
 🔹 Features:
 
-CO₂ trend forecasting
-Real-time weather integration (Open-Meteo API)
+CO₂ emissions forecasting
+Real-time weather integration
 Climate scenario simulation
-Global emissions visualization
+Global visualization dashboard
+
+🔗 Live Demo:
+https://co2-tracker-nwer9esjbrkj9r5xsmphlj.streamlit.app/
 
 🔹 Tech Stack:
 Python | TensorFlow | Scikit-learn | Streamlit | Plotly
+
+🧠 News Classification Dashboard
+
+Transformer NLP | BERT-based Text Classification
+
+A research-focused NLP system using a fine-tuned BERT model to classify news into:
+
+🌍 World
+⚽ Sports
+💼 Business
+🤖 Sci/Tech
+
+🔹 Features:
+
+Real-time prediction
+Confidence scores
+Probability visualization
+Evaluation metrics dashboard
+
+🔗 Live Demo:
+https://news-classifier-l3krtdmnrcmgxeszhkiw2f.streamlit.app/
+
+🔹 Tech Stack:
+
+PyTorch | Hugging Face Transformers | Streamlit
+
+🛠️ Technical Stack
+
+Languages:
+
+Python
+
+Machine Learning:
+
+Scikit-learn | Regression | Random Forest | GridSearchCV
+
+
+Deep Learning:
+
+TensorFlow | Keras | LSTM
+
+NLP:
+
+BERT | Sentence Transformers | Hugging Face
+
+Deployment:
+Streamlit
+
+APIs:
+Deezer API | Open-Meteo API
