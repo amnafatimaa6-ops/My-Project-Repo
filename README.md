@@ -3,58 +3,94 @@
 Welcome to my internship projects repository! This repo contains a collection of machine learning, data analysis, and AI projects I completed during my internship tasks. 
 Each project demonstrates practical skills, from data exploration to building predictive models and deploying interactive applications.
 
----
+🚀 Internship Projects Portfolio — Amna Fatima
 
-## 📁 Projects Overview
+Welcome to my AI & Machine Learning internship portfolio. This repository showcases a collection of end-to-end projects spanning NLP, recommender systems, time-series forecasting, and applied machine learning.
 
-### 1. **Apple Stock Prediction**
-Predict short-term Apple (AAPL) stock prices using regression and machine learning models.
+Each project is designed with a focus on real-world applicability, research-driven insights, and interactive deployment.
 
-- **Features:** Linear Regression, Bayesian Ridge, Ridge Regression, Random Forest, Gradient Boosting, LSTM
-- **Tech:** Python, Pandas, scikit-learn, Streamlit
+🧠 Core Projects
+🎬 Movie Recommendation System
 
+Multi-Model Recommender | NLP + Semantic AI + Hybrid Ranking
 
----
+A Streamlit-based intelligent movie recommendation engine using:
 
-### 2. **Spam Detector**
-A machine learning model to classify messages as spam or not spam.
+TF-IDF similarity (surface-level matching)
+Sentence Transformers (semantic understanding)
+Hybrid scoring system (balanced recommendations)
+Genre-based filtering
 
-- **Tech:** Python, scikit-learn, NLP preprocessing
-- **Goal:** Build a predictive model for text classification.
+🔹 Features:
 
----
+Cosine similarity ranking
+Context-aware recommendations
+Movie metadata insights (ratings, popularity, overview)
+🎥 YouTube trailer integration (real-time)
 
-### 3. **Heart Insurance Prediction**
-Predict insurance costs based on health and demographic features.
+🔹 Tech Stack:
+Python | Streamlit | Scikit-learn | Sentence Transformers | Pandas
 
-- **Tech:** Python, Pandas, scikit-learn
-- **Goal:** Regression modeling to estimate insurance charges.
+🧠 AG News Classification Dashboard
 
----
+Transformer NLP | Research + Deployment
 
-### 4. **Karachi House Prices**
-Predict property prices in Karachi using machine learning models.
+A research-oriented NLP dashboard using a fine-tuned BERT model to classify news into:
 
-- **Tech:** Python, Pandas, scikit-learn
-- **Goal:** Regression and exploratory data analysis for real estate pricing.
+🌍 World
+⚽ Sports
+💼 Business
+🤖 Sci/Tech
 
----
+🔹 Features:
 
-### 5. **Iris Analysis**
-- **Iris Analysis**
-- **Tech** Python, Pandas, Numpy
-- **Goal** To perform Data Analysis
+Real-time predictions
+Confidence scoring
+Probability visualization
+Evaluation metrics (accuracy, confusion matrix)
 
----
+🔹 Tech Stack:
+PyTorch | Hugging Face Transformers | Streamlit | Matplotlib
 
-## 🚀 Highlights
+🎧 Music Recommendation System
 
-- Built models with **high predictive accuracy** using regression and ensemble methods.
-- Applied **feature engineering, lag features, moving averages, volatility, and returns** for financial data.
-- Deployed **interactive Streamlit apps** for real-time predictions.
-- Documented **research papers and PDFs** for formal presentation.
-- Focused on **transparent, interpretable, and reproducible ML workflows**.
+Hybrid AI Engine | NLP + Audio Intelligence
 
----
+A Spotify-inspired music discovery system combining:
 
+Sentence-BERT (semantic understanding)
+Audio feature engineering (mood, intensity, danceability)
+Hybrid scoring (text + audio fusion)
 
+🔹 Features:
+
+Artist & genre-based recommendations
+Mood-based discovery engine
+🎧 30-sec previews + album covers (Deezer API)
+Smart cold-start fallback system
+
+🔹 Tech Stack:
+Python | Streamlit | SBERT | Scikit-learn | Deezer API
+
+🌍 CO₂ Climate Intelligence System
+
+ML vs DL Research | Time-Series Forecasting
+
+A climate analytics platform comparing:
+
+Linear Regression (ML baseline)
+LSTM (Deep Learning model)
+
+🔹 Key Insight:
+
+Simpler models outperform deep learning in low-data environments.
+
+🔹 Features:
+
+CO₂ trend forecasting
+Real-time weather integration (Open-Meteo API)
+Climate scenario simulation
+Global emissions visualization
+
+🔹 Tech Stack:
+Python | TensorFlow | Scikit-learn | Streamlit | Plotly
